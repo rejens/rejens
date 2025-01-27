@@ -176,7 +176,7 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rejens&theme=chartreuse-dark&show_icons=true&count_private=true" />
   <br></br>
   
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rejens&theme=chartreuse-dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rejens' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rejens&theme=chartreuse-dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
@@ -188,8 +188,6 @@
 
 <br/>
 
-
-
 <div align="center">
 <h2>Find me on</h2>
    <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin-icon-2.svg"></a>&nbsp;&nbsp;
@@ -199,17 +197,16 @@
    <a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github-1.svg"></a>&nbsp;&nbsp;
 </div>
 
-
 <p align="center">
   <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
 </p>
 
 <!-- snake -->
-<p >
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rejens/rejens/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rejens/rejens/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rejens/rejens/master/assets/github-contribution-grid-snake.svg">
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rejens/rejens/output/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rejens/rejens/output/github-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rejens/rejens/output/github-snake.svg">
     </picture>
 </p>
 
