@@ -190,11 +190,11 @@
 
 <div align="center">
 <h2>Find me on</h2>
-   <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin-icon-2.svg"></a>&nbsp;&nbsp;
-   <a href="https://twitter.com/UjwalKandiii" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter-3.svg"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/ujwal_kandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/instagram-2-1.svg"></a>&nbsp;&nbsp;
-   <a href="https://www.kaggle.com/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/Kaggle%20Icon.svg"></a>&nbsp;&nbsp;
-   <a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github-1.svg"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/rejens-rayamajhi-005297268/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin-icon-2.svg"></a>&nbsp;&nbsp;
+   <a href="https://twitter.com/rejens_" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter-3.svg"></a>&nbsp;&nbsp;
+   <a href="https://www.instagram.com/rizzz.ansss/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/instagram-2-1.svg"></a>&nbsp;&nbsp;
+   <a href="https://www.kaggle.com/rejensrayamajhi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/Kaggle%20Icon.svg"></a>&nbsp;&nbsp;
+   <a href="https://github.com/rejens" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github-1.svg"></a>&nbsp;&nbsp;
 </div>
 
 <p align="center">
