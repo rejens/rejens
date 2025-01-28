@@ -15,6 +15,8 @@
 
 <div style="display: flex; align-items: center;">
 
+
+<!--
 <p style="flex: 1; font-family: 'samp';">
 
     Full stack developer
@@ -27,7 +29,7 @@
 </p>
 
 <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF" height="160px" style="flex: 1;"/>
-
+-->
 </div>
 
 ## Technology Stack 💻
