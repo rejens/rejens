@@ -16,13 +16,13 @@
 <div style="display: flex; align-items: center;">
 
 <p style="flex: 1; font-family: 'samp';">
-    <br><br>
+
     Full stack developer
-    <br><br>
+ 
     & AI/ML developer
-    <br><br>
+   
     Focusing on building 
-    <br><br> 
+  
     Real World Applications
 </p>
 
