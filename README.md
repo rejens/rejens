@@ -16,18 +16,6 @@
 <div style="display: flex; align-items: center;">
 
 
-<!--
-<p style="flex: 1; font-family: 'samp';">
-
-    Full stack developer
- 
-    & AI/ML developer
-   
-    Focusing on building 
-  
-    Real World Applications
-</p>
-
 <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF" height="160px" style="flex: 1;"/>
 -->
 </div>
